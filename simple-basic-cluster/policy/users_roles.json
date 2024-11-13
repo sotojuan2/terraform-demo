@@ -1,0 +1,14 @@
+{
+    "users": [
+      {
+        "key": "3RERNIR6BN",
+        "role": "admin",
+        "topics": ["topic1", "topic2"]
+      },
+      {
+        "key": "3RERNIR6BN--1",
+        "role": "developer"
+      }
+    ]
+  }
+  
