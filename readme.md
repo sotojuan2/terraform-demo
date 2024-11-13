@@ -163,7 +163,11 @@ The output is similar to.
 }
 ```
 
+# Destroy demo
 
+```
+terraform destroy
+```
 
 
 
